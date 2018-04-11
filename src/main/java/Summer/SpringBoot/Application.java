@@ -17,7 +17,7 @@ import org.springframework.web.filter.CorsFilter;
 public class Application extends SpringBootServletInitializer {
 
 	/**
-	 * 跨域过滤器
+	 * 跨域过滤器123213
 	 * 
 	 * @return
 	 */
