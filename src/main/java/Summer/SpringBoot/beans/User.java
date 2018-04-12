@@ -1,7 +1,7 @@
 package Summer.SpringBoot.beans;
 
 public class User {
-
+//111
 	private String loginName;
 	private String password;
 	private String id;
